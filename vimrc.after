@@ -1,0 +1,5 @@
+set background=dark
+color solarized
+source $VIMRUNTIME/mswin.vim
+behave mswin
+au BufWritePost *.js :JSHint

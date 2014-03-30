@@ -1,0 +1,1 @@
+let $PATH=$HOME . '/local/bin:' . $PATH

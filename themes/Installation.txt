@@ -1,0 +1,3 @@
+To install the GTK themes, place the "Numix Solarized" and "Numix Solarized Light" folders in /usr/share/themes/ or ~/.themes/
+
+To install the Elegance Colors presets, move the .ini files to ~/.config/elegance-colors/presets/

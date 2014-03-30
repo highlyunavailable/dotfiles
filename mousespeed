@@ -1,0 +1,4 @@
+#!/bin/sh
+
+xinput set-prop 'DLL060A:00 06CB:2734' 'Device Accel Profile' -1
+xinput set-prop 'DLL060A:00 06CB:2734' 'Device Accel Constant Deceleration' 0.5
