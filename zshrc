@@ -74,5 +74,5 @@ export ARCHFLAGS="-arch x86_64"
 export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 eval `dircolors ~/.dotfiles/dircolors`
-
+PATH=$HOME/local/bin:$PATH
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
